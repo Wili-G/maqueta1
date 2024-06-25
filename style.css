@@ -1,0 +1,30 @@
+body{
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+}
+
+.menu{
+    width: 100%;
+}
+
+.Hola {
+    color: var(--color_blanco);
+}
+
+.texto{
+    color: white;
+    position: fixed;
+    left: 150px;
+    top: 150px;
+    z-index: 10;
+}
+
+img{
+    width: 100%;
+    position: relative;
+}
+
+.Hola{
+    color: aqua;
+}
